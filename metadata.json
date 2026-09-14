@@ -1,0 +1,6 @@
+{
+  "name": "GHRCEN Lost and Found",
+  "description": "Official G.H. Raisoni College of Engineering (GHRCEN) campus lost and found portal with AI image recognition, student & faculty verification, search directory, and campus security admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
